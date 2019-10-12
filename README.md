@@ -18,5 +18,10 @@ You could experiment with the parameters. Defaults were used at the demonstratio
 
 Tested with Python 3.6.8 on Ubuntu 18.04.
 
+## Setup notes and examples
+
+* [setup01 pip pyhton packages](setup01_pip_pyhton_packages/README.md)
+* [setup02 example dsn](setup02_dsn/README.md)
+
 
 
